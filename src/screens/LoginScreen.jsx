@@ -72,7 +72,7 @@ const navigation= useNavigation()
     className="flex-row justify-center">
         <Text>Don't have an account? </Text>
         <TouchableOpacity onPress={()=>navigation.push("SignUp")}>
-            <Text className="text-sky-600">SignUp</Text>
+            <Text className="text-sky-600">kaydet</Text>
         </TouchableOpacity>
     </Animated.View>
 
