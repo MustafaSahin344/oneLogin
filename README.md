@@ -1,1 +1,1 @@
-![oneLogin](assets/images/tanıtım.gif)
+![oneLogin](assets/images/Login.png)
